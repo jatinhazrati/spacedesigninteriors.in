@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Instagram",
+    "icon": "../images/social-icons/instagram.svg",
+    "href": "https://www.instagram.com/spacedesigninteriors.in/"
+  },
+  {
+    "name": "Facebook",
+    "icon": "../images/social-icons/facebook.svg",
+    "href": "https://www.facebook.com/spacedesigninteriors.in"
+  },
+  {
+    "name": "YouTube",
+    "icon": "../images/social-icons/youtube.svg",
+    "href": "https://www.youtube.com/channel/UCwXNOyKPN9rEOeJgBn6RQBw"
+  },
+  {
+    "name": "Linkedin",
+    "icon": "../images/social-icons/linkedin.svg",
+    "href": "https://www.linkedin.com/company/spacedesigninteriors/"
+  }
+]
