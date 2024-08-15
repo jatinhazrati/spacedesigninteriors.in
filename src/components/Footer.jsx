@@ -46,8 +46,8 @@ const Footer = ({ setShowContactUsModal }) => {
                 rel="noreferrer"
                 className="text-body-lg font-light text-white"
               >
-                Opp. Puri Aanand-vilas, Near Aravali International School,
-                Sector-81 Faridabad, Haryana, India 121002
+                First Floor, Omaxe World Street SCO-109, Sector 79, Faridabad,
+                Haryana 121002
               </a>
             </div>
             <div className="flex flex-col gap-2">
